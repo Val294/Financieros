@@ -1,8 +1,0 @@
-
-yfinance
-datetime
-numpy
-scipy.stats pandas
-streamlit
-plotly.express
-matplotlib.pyplot
