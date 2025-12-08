@@ -1,7 +1,9 @@
-yfinance
 numpy
-scipy
 pandas
+scipy
+yfinance
+cvxpy
+tqdm
+matplotlib
 streamlit
 plotly
-matplotlib
